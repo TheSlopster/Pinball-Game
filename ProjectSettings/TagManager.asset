@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bumper
+  - Border
+  - Ball
+  - Red
+  - Orange
+  - Yellow
+  - Green
+  - Blue
+  - BounceBall
+  - BounceWall
   layers:
   - Default
   - TransparentFX
@@ -11,9 +21,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Bumper
+  - Colliders
+  - Ball
   - 
   - 
   - 
