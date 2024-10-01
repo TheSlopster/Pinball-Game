@@ -13,6 +13,7 @@ public class PointCollection : MonoBehaviour
     public int points = 0;
     public TMP_Text scoreText;
 
+
     private void Update()
     {
         scoreText.text = points.ToString();
@@ -44,6 +45,5 @@ public class PointCollection : MonoBehaviour
         {
             blue.BluePoints();
         }
-
     }
 }
